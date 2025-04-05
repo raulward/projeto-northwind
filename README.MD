@@ -42,3 +42,4 @@ Através deste projeto, demonstramos que a integração e a análise aprofundada
 
 ## Links
 - **Dashboard**: https://app.powerbi.com/groups/me/reports/648b7300-73d3-4302-856b-35accf9230ea?pbi_source=desktop
+- **Github**: https://github.com/raulward/projeto-northwind
