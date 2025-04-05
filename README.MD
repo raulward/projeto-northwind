@@ -37,5 +37,8 @@ A Northwind Traders é uma empresa fictícia que atua nos setores de alimentos, 
 Através deste projeto, demonstramos que a integração e a análise aprofundada dos dados são essenciais para melhorar a performance operacional e comercial da Northwind Traders. Os insights obtidos permitem ações estratégicas que podem levar a um aumento do ticket médio, à redução do churn e à otimização dos processos internos. Este projeto serve como base para a transformação da empresa em uma organização orientada por dados, promovendo decisões mais rápidas e precisas.
 
 ## Contato
-- **Nome:** [Seu Nome]
-- **Email:** [seu.email@dominio.com]
+- **Nome:** Raul Ward
+- **Email:** raulwarddev@gmail.com
+
+## Links
+- **Dashboard**: https://app.powerbi.com/groups/me/reports/648b7300-73d3-4302-856b-35accf9230ea?pbi_source=desktop
